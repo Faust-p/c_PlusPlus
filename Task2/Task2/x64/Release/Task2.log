@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\PGU\Voronov\Task2\Task2\main.cpp(8,36): warning C4244: аргумент: преобразование "unsigned __int64" в "long double", возможна потеря данных
+C:\PGU\Voronov\Task2\Task2\main.cpp(8,28): warning C4244: инициализация: преобразование "long double" в "unsigned __int64", возможна потеря данных
+C:\PGU\Voronov\Task2\Task2\main.cpp(158,76): warning C4334: <<: результат 32-разрядного смещения неявно преобразуется в 64-разрядное значение (предполагалось 64-разрядное смещение?)
+  Создание кода
+  2 of 134 functions ( 1.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Task2.vcxproj -> C:\PGU\Voronov\Task2\x64\Release\Task2.exe
